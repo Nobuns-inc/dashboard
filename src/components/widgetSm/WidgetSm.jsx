@@ -8,7 +8,7 @@ export default function WidgetLg() {
     <ul className="widgetSmList">
       <li className="widgetSmListItem">
         <img
-          src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500"
+          src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg"
           alt=""
           className="widgetSmImg"
         />
@@ -23,7 +23,7 @@ export default function WidgetLg() {
       </li>
       <li className="widgetSmListItem">
         <img
-          src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500"
+          src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg"
           alt=""
           className="widgetSmImg"
         />
@@ -38,7 +38,7 @@ export default function WidgetLg() {
       </li>
       <li className="widgetSmListItem">
         <img
-          src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500"
+          src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg"
           alt=""
           className="widgetSmImg"
         />
@@ -53,7 +53,7 @@ export default function WidgetLg() {
       </li>
       <li className="widgetSmListItem">
         <img
-          src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500"
+          src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?cs=srgb&dl=pexels-italo-melo-2379004.jpg&fm=jpg"
           alt=""
           className="widgetSmImg"
         />
@@ -68,7 +68,7 @@ export default function WidgetLg() {
       </li>
       <li className="widgetSmListItem">
         <img
-          src="https://images.pexels.com/photos/3992656/pexels-photo-3992656.png?auto=compress&cs=tinysrgb&dpr=2&w=500"
+          src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?cs=srgb&dl=pexels-italo-melo-2379004.jpg&fm=jpg"
           alt=""
           className="widgetSmImg"
         />

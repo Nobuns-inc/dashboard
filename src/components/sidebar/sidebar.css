@@ -17,8 +17,7 @@
 
 .sidebarTitle {
   font-size: 13px;
-  color: rgb(187, 186, 186);
-}
+  color: #B7935D;}
 
 .sidebarList {
   list-style: none;
@@ -31,6 +30,7 @@
   display: flex;
   align-items: center;
   border-radius: 10px;
+  color: black;
 }
 
 .sidebarListItem.active,
